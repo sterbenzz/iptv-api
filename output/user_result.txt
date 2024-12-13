@@ -1,16 +1,16 @@
 更新时间,#genre#
-2024-12-13 18:43:04,url
+2024-12-14 06:12:45,url
 🏀体育频道,#genre#
 CCTV-5,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://221.233.192.152:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://113.57.20.158:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://58.48.37.158:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-5,http://60.164.128.167:8029/rtp/239.255.29.13:8231$组播源
 CCTV-5,http://www.furymax.top:85/rtp/239.69.1.123:10376$组播源
 CCTV-5,http://xeace.cn:8888/rtp/239.93.42.37:5140$组播源
 CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$组播源
 CCTV-5,http://111.196.129.152:20000/rtp/239.3.1.173:8001$组播源
 CCTV-5,http://114.252.238.87:8000/rtp/239.3.1.173:8001$组播源
+CCTV-5,http://60.2.190.206:4000/rtp/239.253.92.181:6046$组播源
 CCTV-5+,http://220.249.114.102:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://221.233.192.152:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -18,6 +18,6 @@ CCTV-5+,http://58.48.37.158:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&a
 CCTV-5+,http://www.furymax.top:85/rtp/239.254.96.234:9484$组播源
 CCTV-5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013$组播源
 CCTV-5+,http://www.furymax.top:85/rtp/239.69.1.12:9712$组播源
-CCTV-5+,http://60.164.128.167:8029/rtp/239.255.30.184:8231$组播源
 CCTV-5+,http://221.219.79.161:4000/rtp/239.3.1.130:8004$组播源
 CCTV-5+,http://222.129.139.229:8888/rtp/239.3.1.130:8004$组播源
+CCTV-5+,http://111.196.129.152:20000/rtp/239.3.1.130:8004$组播源
