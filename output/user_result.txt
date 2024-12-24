@@ -1,10 +1,10 @@
 更新时间,#genre#
-2024-12-24 18:13:22,url
+2024-12-25 06:12:36,url
 🏀体育频道,#genre#
-CCTV-5,http://113.57.20.158:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://mom.cloudns.be:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
 CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$山东酒店源
+CCTV-5,http://123.130.84.106:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$山东酒店源
 CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$组播源
 CCTV-5,http://111.196.129.152:20000/rtp/239.3.1.173:8001$组播源
 CCTV-5,http://114.252.238.87:8000/rtp/239.3.1.173:8001$组播源
