@@ -23,9 +23,7 @@ pyinstaller = "*"
 aiohttp = "*"
 flask = "*"
 opencc-python-reimplemented = "*"
-fake-useragent = "*"
 pillow = "*"
-yt-dlp = "*"
 m3u8 = "*"
 
 [packages]
@@ -36,10 +34,8 @@ async-timeout = "*"
 aiohttp = "*"
 flask = "*"
 opencc-python-reimplemented = "*"
-fake-useragent = "*"
 gunicorn = "*"
 pillow = "*"
-yt-dlp = "*"
 m3u8 = "*"
 
 [requires]
