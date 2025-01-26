@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="2025-01-26 18:14:22" tvg-logo="https://live.fanmingming.cn/tv/2025-01-26 18:14:22.png" group-title="🕘️更新时间",2025-01-26 18:14:22
+#EXTINF:-1 tvg-name="2025-01-27 06:13:54" tvg-logo="https://live.fanmingming.cn/tv/2025-01-27 06:13:54.png" group-title="🕘️更新时间",2025-01-27 06:13:54
 http://113.57.109.129:9001/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://113.57.109.129:9001/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
-http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
+http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
@@ -16,15 +16,13 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000025222/1.m3u8?chan
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
-http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
-http://58.19.43.46:9901/tsfile/live/1024_1.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
-http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
+http://www.terrykang.xyz:35455/itv/1000000005000265005.m3u8?cdn=ystenlive$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
+http://www.terrykang.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?key=tvbox6_com$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
@@ -32,9 +30,7 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000015875/1.m3u8?chan
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
-http://1.itv.nctv.top:35455/gaoma/cctv5p.m3u8$订阅源-1920x1080
+http://dsm.huarunguoji.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive$订阅源-1920x1080
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="🏀体育频道",广东体育
 http://120.77.205.62:8087/rtp/239.77.1.97:5146$组播源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="🏀体育频道",广东体育
@@ -42,11 +38,11 @@ http://120.77.205.62:8087/rtp/239.77.0.168:5146$组播源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="🏀体育频道",广东体育
 http://120.77.205.62:8087/rtp/239.77.0.112:5146$组播源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="🏀体育频道",广东体育
-http://mzitv.cn:32/tsfile/live/1008_1.m3u8$订阅源
+http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="🏀体育频道",广东体育
-http://183.11.239.36:808/hls/2/index.m3u8$订阅源
+http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="🏀体育频道",广东体育
-http://r.jdshipin.com/LiYdg$订阅源
+http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
@@ -58,15 +54,11 @@ http://139.196.151.191:2051/rtp/239.45.3.210:5140$组播源
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3$订阅源
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="🏀体育频道",五星体育
-http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000010000017540.m3u8%3Fcdn%3Dbestzb$订阅源
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.cn/tv/体育赛事.png" group-title="🏀体育频道",体育赛事
-http://139.129.231.228:50060/rtp/239.21.2.44:5002$山东电信组播源
 #EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.cn/tv/体育赛事.png" group-title="🏀体育频道",体育赛事
 http://139.129.231.228:3529/rtp/239.21.2.44:5002$山东电信组播源
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.cn/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
@@ -97,8 +89,10 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8$订阅源-IP
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.cn/tv/精品体育.png" group-title="🏀体育频道",精品体育
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.cn/tv/山东体育.png" group-title="🏀体育频道",山东体育
-http://139.129.231.228:50060/rtp/239.21.1.141:5002$山东电信组播源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.cn/tv/广州竞赛.png" group-title="🏀体育频道",广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai$订阅源
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.cn/tv/辽宁体育.png" group-title="🏀体育频道",辽宁体育
+http://218.24.43.42:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.cn/tv/山东体育.png" group-title="🏀体育频道",山东体育
 http://139.129.231.228:3529/rtp/239.21.1.141:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.cn/tv/山东体育.png" group-title="🏀体育频道",山东体育
@@ -114,9 +108,9 @@ http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订�
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://hangfun.top:35455/itv/2000000003000000065.m3u8?cdn=hnbblive$订阅源-1920x1080
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
-http://1.itv.nctv.top:35455/itv/2000000003000000065.m3u8?cdn=hnbblive$订阅源-1920x1080
+http://www.terrykang.xyz:35455/itv/1000000006000270006.m3u8?cdn=ystenlive$订阅源-1920x1080
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
-http://1.itv.nctv.top:35455/itv/2000000003000000061.m3u8?cdn=hnbblive$订阅源-1920x1080
+http://www.terrykang.xyz:35455/itv/2000000003000000065.m3u8?cdn=hnbblive$订阅源-1920x1080
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
@@ -124,17 +118,19 @@ http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226027/main.m3u8$订阅�
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
+http://cqshushu.us.kg:2086/ln.php?id=jcgch-1$订阅源-720x576
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/1000000006000270005.m3u8%3Fcdn%3Dystenlive$订阅源
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/1000000006000270003.m3u8%3Fcdn%3Dystenlive$订阅源
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
-http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A62115/itv/2000000003000000062.m3u8%3Fcdn%3Dhnbblive$订阅源
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="🏀体育频道",风云足球
+http://120.238.94.10:9901/tsfile/live/1087_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="🏀体育频道",风云足球
 http://183.11.239.36:808/hls/133/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="🏀体育频道",风云足球
@@ -146,6 +142,8 @@ http://z.b.bkpcp.top/m.php?id=mlzq$订阅源-1920x1080
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
 https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=mlzq$订阅源-1280x720
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207$订阅源
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281$订阅源-IPv6-1920x1080
@@ -153,6 +151,8 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000068/index.m3u8?
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://120.55.49.231:3095/rtp/233.50.201.109:5140$组播源
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206$订阅源
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
